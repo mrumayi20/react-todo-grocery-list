@@ -1,8 +1,25 @@
-# React + Vite
+# React + Vite - Grocery List Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is a simple and user-friendly grocery list manager built with React and Vite. It allows you to easily add, track, and manage your grocery items in a to-do list format.
 
-Currently, two official plugins are available:
+## Features
+Add grocery items: Quickly add any item you need to your list.
+Delete items: Remove items you no longer need or have already purchased.
+Mark items as checked: Use checkboxes to visually track which items you've already bought.
+Simple and intuitive interface: The app is designed for a smooth and straightforward user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+To run this application locally follow steps given below:
+
+1. Clone the repository.
+2. Install dependencies: npm install.
+3. Start the development server: npm run dev.
+4. Open http://localhost:3000 in your browser.
+
+## Technologies Used
+React: A JavaScript library for building user interfaces.
+Vite: A build tool for modern web development with fast and efficient bundling.
+
+## Contributing
+Contributions are welcome! Please feel free to submit issues or pull requests to help improve this project.
+
